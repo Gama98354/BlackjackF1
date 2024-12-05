@@ -1,0 +1,3 @@
+C:/Tecnologico de toluca/Tercer semestre/Blackjack final1/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Tecnologico de toluca/Tercer semestre/Blackjack final1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Tecnologico de toluca/Tercer semestre/Blackjack final1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

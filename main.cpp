@@ -23,7 +23,7 @@ public:
 
     int getValorNumerico() {
         if (valor == "A") {
-            return 11; // El valor inicial del As es 11, se ajustará después si es necesario.
+            return 11;
         }
         if (valor == "K" || valor == "Q" || valor == "J") {
             return 10;
